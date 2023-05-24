@@ -1,0 +1,11 @@
+
+body {
+    background-image: url('troll.png');
+    background-size: cover;
+    
+    transition: background-image 0.3s ease-in-out;
+  }
+  
+  
+ 
+  

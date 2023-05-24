@@ -1,0 +1,12 @@
+.clock {
+  font-size: 48px;
+  text-align: center;
+  padding: 10 20px;
+  margin 0 10px;
+  width: 200px;
+justify-content: right  ;
+
+  background-color: #FFFFC2;
+  color: #000000;
+
+}
